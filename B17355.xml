@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Paper of condemnation past at York together with a paper written by way of answer thereunto, whereby, in part, may be seen the difference between the conforming and discenting parties, recomended to the monthly meetings, desireing they will impartially consider the same.</title>
+         </titleStmt>
+         <extent>Approx. 44KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17355</idno><idno type="EEBO-CITATION">12572306</idno>
+  <idno type="VID">200283</idno>
+  <idno type="EEBO-PROQUEST">2240944534</idno>
+  
+            <idno type="STC">Wing B45</idno>
+            <idno type="OCLC">12572306</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 953:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Paper of condemnation past at York together with a paper written by way of answer thereunto, whereby, in part, may be seen the difference between the conforming and discenting parties, recomended to the monthly meetings, desireing they will impartially consider the same.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by C.B., [</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:200283:1"/>
+            <pb n="1" facs="tcp:200283:1"/>
+            <head>A PAPER <hi>Of Condemnation,</hi> Past at <hi>YORK.</hi>
+            </head>
+            <head type="sub">Together with a Paper written by way of <hi>Answer</hi> thereunto. Whereby, in part, may be seen the Difference be<g ref="char:EOLhyphen"/>tween the Conforming and Discenting Parties. Recomended to the <hi>Monthly Meetings,</hi> desireing they will impartially consider the same.</head>
+            <p>Published by <hi>C. B.</hi>
+            </p>
+         </div>
+         <div type="paper">
+            <head>At the Quarterly Meeting held at <hi>York,</hi> the <hi>18th.</hi> and <hi>19th.</hi> days of the Fourth Month, <hi>1684.</hi>
+            </head>
+            <p>FRiends being met together in the sence of the presence of Almighty God, and under the consideration and weight of Truth, and the Af<g ref="char:EOLhyphen"/>fairs thereof; amongst other things, the State of the Particular Meeting of the City of <hi>York</hi> was by the Agreement of the Monthly Meeting, here presented to the Care and Sence of Friends touching the same; shewing, That divers Persons of the said Meeting after much disorderly work occasioned by them, to the great disturbance of the Meeting, and the grief of the faithful to God, as unto this Meeting it was plainly made to appear, had for divers Months last past withdrawn themselves from the Publick Meetings of the City, held for many years in the Publick Meeting House: And that through the perswasion or influence of some more particularly concerned touching that matter, a separate Meeting was set up amongst them at some of their own private Houses, which was become not only a disparagement to Truth, being common<g ref="char:EOLhyphen"/>ly known and spoken of in the City amongst divers sorts of People, and the hands of the publick Enemies to Truth strengthened thereby; but also had tended to the hurt of some of the weak sort of Friends, and had occasioned a Breach of that Christian Society in the Truth and the Fellowship of Brethren which formerly had been enjoyed amongst them. This Meeting had also an account given them of the great care and endeavours that by divers of the City Friends (and sometimes at or by the Orders of the two Weeks Meeting) and by many other persons, had been used concerning them touching divers things acted amongst them, which had occasioned the aforesaid trouble in their Meetings, before it came to a Separation, or separate Meeting, which proving ineffectual with respect to what was desired and sought for; the matter was by agreement of the City Friends laid before the Monthly Meeting, the 12th. of the 3d. Month, 1684, together with the exercise and endeavours that had
+<pb n="2" facs="tcp:200283:2"/>been used concerning them. Whereupon the said Monthly Meeting by the agreement thereof, caused a Paper of Caution and tender Advice to be sent them, subscribed by the Order of the Meeting, shewing a total dislike of the said Separation and separate Meeting, and of the divers disorderly attempts used amongst them relating thereunto; which said Paper and the Answer, to it hath been red in this Meeting, by which Answer, subscribed <hi>Jo. Cox, Ed. Nightingale. Tho. Dennison,</hi> and <hi>John Winnard,</hi> as also by the continuance of the aforesaid Separation and separate Meeting, it plainly appeared to Friends of this Meeting, that all the aforesaid endeavours and orderly proceedings that had been used by the Monthly Meeting, also concerning them that had been alto<g ref="char:EOLhyphen"/>gether slighted by them, &amp; so became ineffectual also. All which said passages &amp; transactings of matters on both hands concerning them, being by the agreement &amp; order of the aforesaid Monthly Meeting, this day brought before Friends of this Meeting, after a tender and deliberate weighing thereof, there appeared in the Meeting an utter dislike of the aforesaid Separation &amp; separate Meeting and of all the work of strife that had been occasioned by them, principally con<g ref="char:EOLhyphen"/>cerned in bringing things to that height of disunity and reproach, occasioned thereby, and dissatisfaction and disunity therewith was greatly manifested in the Meeting, as also with a Paper given forth by the aforementioned persons, in vindication thereof, and that all the aforesaid care and endeavours that had been used, was so slighted by them, was the grief and sorrow of many, as in much tenderness of spirit and brokenness did manifestly appear; And under which in the love of God it was proposed and agreed upon by the Meet<g ref="char:EOLhyphen"/>ing, that some Friends (several whereof under a tender exercise offered them<g ref="char:EOLhyphen"/>selves) should go to the aforesaid <hi>John Cox, E. Nightingale, T. Dennison,</hi> and <hi>Jo. Winnard,</hi> the principal occasioners of the aforesaid disorderly work, &amp; give them the knowledge of Friends sence of the late works brought forth amongst them, and to desire them in the Love of God, under a sence of their weak<g ref="char:EOLhyphen"/>ness therein, to break up their said separate Meeting, and to Judge the same, and to call in their Papers they had given forth in vindication thereof, and to let the Truth of God come over again, and the antient Fellowship close with in the Spirit of Christ Jesus; that Friends hearts might be comforted there<g ref="char:EOLhyphen"/>with, and no farther occasion administred to them to proceed according to Gospel Order against them, and the aforesaid Friends appointed to speak to them, being willing of a ready mind to answer the Meetings desire, and their own motion in Brotherly endeavours concerning them, gave up them<g ref="char:EOLhyphen"/>selves thereunto, and after a while returned to the Meeting again, signifying the care they had taken to get <hi>Jo. Cox, Ed. Nightingale, Tho. Dennison, Jo. Winnard</hi> together, but could not prevail with them to do it, so that the matter was opened particularly unto them, shewing Friends sence touching them, as also Friends desire that they would break up the aforesaid Meeting, that they might in the antient Love through Gods power be reconciled again.</p>
+            <p>The substance of whose Answer particularly as it was given in to the Meeting doth amount to this: That no notice was taken by them of any Reproof,
+<pb n="3" facs="tcp:200283:2"/>Caution or Advice touching the matter of their Separation or separate Meet<g ref="char:EOLhyphen"/>ing as to the Judging thereof, but they rejected the Sence and Testimony of Friends touching them; <hi>John Cox</hi> reflecting upon the Quarterly Meeting, and charging Friends to be gon into the Apostacy and the like, neither did they in the least manifest any trouble upon them for what they had done, or any dis-satisfaction therein, or demonstrate any inclination or purpose in them to break off the aforesaid separate Meeting, or shew any dislike thereof. Where<g ref="char:EOLhyphen"/>fore Friends being again met together in the Fear of God and in his Power, having upon them the weight of the aforesaid matter, and work of strife acted by them, and the evil tendency thereof, and under the sence of the many en<g ref="char:EOLhyphen"/>deavours in long suffering and great patience used towards them, for their re<g ref="char:EOLhyphen"/>turning again into the antient Power and Fellowship of the Brethren, in the spirit of Truth, altogether slighted by them, as manifestly appears. In a Te<g ref="char:EOLhyphen"/>stimony for the antient unchangable Truth, and Unity therin amongst Bre<g ref="char:EOLhyphen"/>thren, and for the glory of the Life and Dominion thereof over the works of a discenting deviding Spirit, &amp; the attempts thereof to strifo in the Church &amp; Family of God do Declare &amp; Testify against the aforementioned work of strife and separation that the aforesaid <hi>J.C.E.N.T.D.</hi> &amp; <hi>J. W.</hi> principally have occa<g ref="char:EOLhyphen"/>sion'd, &amp; are gone into (with those that adhere to them) &amp; with the Separate Meeting set up, as also against the Paper with their Names subscribed to it, given forth as an Apology on behalf or in vindication thereof, and against the Spirit which in the said Paper hath reflected upon and implicitely charged with smiting Queries the Church of God in general tearms (without proving any thing) on the account of its Care, Order and Discipline, used therein, in Gods Power; as also on the occasion of the wholsome Directions and Rules com<g ref="char:EOLhyphen"/>mended to the Conscience, used and practised amongst Gods People: And we do Judge and Condemn the same in the Name of God and with his Spirit he hath made us partakers of to his praise, and we declare disunion with those who have been the Promoters of the work thereof, and with such as do appear to vindicate the same, and we also testify against such as shall presume to offer their Gifts whilst they appear to abet, strengthen or encourage the aforesaid Separation, or separate Meetings, by associating with them in their Meetings, in the disunion set up, all which being out of the Unity and Fellowship of the Spirit of Christ in the disreconciliation always testifyed against, by his Spirit, and the offering of gifts in such case prohibited, according to Scripture record and practice of the Church of Christ, practised every where at this day; and its the advice also of this Meeting in the Love of God, that all who have be<g ref="char:EOLhyphen"/>lieved in the Light of Christ Jesus, and have been made partakers of the good Word of God, wherein our peace with God and our Fellowship stands, and who have felt the virtue and sweetness thereof, may have a care of this spirits work and touch not with it least you be defiled therewith; but let all keep to that by which you were first gathered to God, that you may have savour in your selves, and know the Lambs voice, and footsteps of the Flock of God, that your habitation may be in the antient Power, wherein your bread will be sure
+<pb n="4" facs="tcp:200283:3"/>and your waters never fail, to be nourished thereby up to eternal Life, that we may become one anothers comfort and help in our way that leads thither, that thereby we may be fastened and knit together through Gods Salvation in the behalf of the uniting Spirit of Christ Jesus our Lord against every contrary ap<g ref="char:EOLhyphen"/>pearance. And we desire all to be tender over the weak in God's Love, who have hurt themselves in going from their own sence, too much to depend upon or to look at others, or through prejudice or evil thoughts have turned aside and therein have abetted the wrong spirit, and work thereof, that you may be in Gods hand a savour on Mount <hi>Sion,</hi> and be Crowned with the glory that hath no end. And in all sincerity and bowedness of soul and spirit we desire that the aforementioned persons, and principally concerned in the aforesaid strif and separation and separate Meeting therein, and all others who have any way encou<g ref="char:EOLhyphen"/>raged and strengthened the same, would tenderly weigh and consider what they have done, and from whence they are fallen, and what irrecoverable danger they have run themselves into, and that they would yet return to their first Love, and do their first Works, and be restor'd again into the ancient Life and Fellowship therein where the Lord is known to be one and his People one, Blessed for ever. Subscribed at the Quarterly Meeting this 19th. of the <hi>Fourth Month.</hi> 1684, by us whose Names are hereunder written.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Leak</hi>
+                     </item>
+                     <item>
+                        <hi>John Taylor</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Waite</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Lodge</hi>
+                     </item>
+                     <item>
+                        <hi>Isaac Lindley</hi>
+                     </item>
+                     <item>
+                        <hi>John Blakeling</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Thorton</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Bayley</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Jackson</hi>
+                     </item>
+                     <item>
+                        <hi>John Moore,</hi> Junior</item>
+                     <item>
+                        <hi>Christopher Edwards</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Roebuck</hi>
+                     </item>
+                     <item>
+                        <hi>Cornelius Empson.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Smithson</hi>
+                     </item>
+                     <item>
+                        <hi>William Heslam</hi>
+                     </item>
+                     <item>
+                        <hi>William Masterman</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Hodgson</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Smith</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Parrot</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Harryson</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Dickinson</hi>
+                     </item>
+                     <item>
+                        <hi>Jonas Preston</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Hoyle</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Lamplough</hi>
+                     </item>
+                     <item>
+                        <hi>John Deighton</hi>
+                     </item>
+                     <item>
+                        <hi>Christopher Knapton</hi>
+                     </item>
+                     <item>
+                        <hi>Gyles Moore</hi>
+                     </item>
+                     <item>
+                        <hi>George Canby</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Cannoby</hi>
+                     </item>
+                     <item>
+                        <hi>John Todd</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Watson</hi>
+                     </item>
+                     <item>
+                        <hi>George Myer</hi>
+                     </item>
+                     <item>
+                        <hi>Joshua Dawson</hi>
+                     </item>
+                     <item>
+                        <hi>William Ridshaw</hi>
+                     </item>
+                     <item>
+                        <hi>Miles Odey,</hi> Senior</item>
+                     <item>
+                        <hi>Richard Butterfield</hi>
+                     </item>
+                     <item>
+                        <hi>John Stansfeild</hi>
+                     </item>
+                     <item>
+                        <hi>Fr. Thomson</hi>
+                     </item>
+                     <item>
+                        <hi>Jeremy Grimshaw</hi>
+                     </item>
+                     <item>
+                        <hi>Christopher Stockton</hi>
+                     </item>
+                     <item>
+                        <hi>George Fallowfeild</hi>
+                     </item>
+                     <item>
+                        <hi>Joseph Mason</hi>
+                     </item>
+                     <item>
+                        <hi>William White</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hamond</hi>
+                     </item>
+                     <item>
+                        <hi>William Fletcher</hi>
+                     </item>
+                     <item>
+                        <hi>Jacob Simpson</hi>
+                     </item>
+                     <item>
+                        <hi>John Taytham</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas White</hi>
+                     </item>
+                     <item>
+                        <hi>George Thompson</hi>
+                     </item>
+                     <item>
+                        <hi>William Wayneman</hi>
+                     </item>
+                     <item>
+                        <hi>John Hall</hi>
+                     </item>
+                     <item>
+                        <hi>John Robinson</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Goodaire</hi>
+                     </item>
+                     <item>
+                        <hi>James Johnson</hi>
+                     </item>
+                     <item>
+                        <hi>John Bradford</hi>
+                     </item>
+                     <item>
+                        <hi>John Bond</hi>
+                     </item>
+                     <item>
+                        <hi>William Winder</hi>
+                     </item>
+                     <item>
+                        <hi>George Box</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Pinder</hi>
+                     </item>
+                     <item>
+                        <hi>Christopher Duckworth</hi>
+                     </item>
+                     <item>
+                        <hi>John Loe</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Calvert</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Wildeman</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Box</hi>
+                     </item>
+                     <item>
+                        <hi>John Loft</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Appleton</hi>
+                     </item>
+                     <item>
+                        <hi>John Parker</hi>
+                     </item>
+                     <item>
+                        <hi>Leonard Winder</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Cooper</hi>
+                     </item>
+                     <item>
+                        <hi>Sebastian Ellythorpe</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Story</hi>
+                     </item>
+                     <item>
+                        <hi>Phillip Scarfe</hi>
+                     </item>
+                     <item>
+                        <hi>John Wood</hi>
+                     </item>
+                     <item>
+                        <hi>John Clarke</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Roberts.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="5" facs="tcp:200283:3"/>
+            <head>The Answer</head>
+            <p>THat Sentence passed the 18th. and 19th. of the 4th. Month, 1684. at <hi>York,</hi> upon <hi>J.C. E.N. T.D. J.W.</hi> and others, by <hi>J.L. J T. T.W. R.L. J.L. J.B. S.T. H.B. H.J.</hi> &amp;c. Considered by way of Expostu<g ref="char:EOLhyphen"/>lation with such as passed it, and by way of appeal to all conscientious Friends and Brethren, being one offer or motion more for Reconciliation and Peace, by endeavouring that the cause of our troubles may be understood in order to their taking away, <hi>&amp;c.</hi> You say, Being met together in the sence of the Presence of Almighty God, and under the consideration of the weight of Truth, and the affairs thereof, the state of the particular Meeting of <hi>York</hi> was presented to your care and sense. 2dly. That you had an account given of the great care and endeavour used by some City Friends and others, as also by order of the two Week Meeting in the like case, but you say all those Endeavouas and orderly Proceedings were ineffectual, as appeared by their continuing their Separate Meeting, <hi>&amp;c.</hi> 3dly. You say, All those Transactions on both hands by order of the <hi>Monthly Meeting,</hi> being this day brought before you, after a tender Examination, and delibe<g ref="char:EOLhyphen"/>rate weighing thereof, there appeared in the Meeting an utter dislike of the Separate Meeting and Separation, and <hi>(Observe)</hi> of all those principally concerned in bringing things to this height of Dis-unity. 4thly. You say, That all the aforesaid Care and Endeavours should be so slighted, was the grief of many, as in much brokenness of Spirit did manifest<g ref="char:EOLhyphen"/>ly appear, under which sense in the Love of God, it was proposed and agreed in the Meeting, that some should go to them, and desire them in the Love of God to break up the said Separate Meeting, that so there might be no fur<g ref="char:EOLhyphen"/>ther occasion administred to proceed according to Gospel Order with them; which was done; but there appearing no inclination nor purpose to break up the Separate Meeting, nor any dislike thereof, you proceed.</p>
+            <p>Those are the grounds that you lay down to prove your Proceedings Gos<g ref="char:EOLhyphen"/>pel Order, against which divers things might be alledged, at this time shall only observe three. <hi>First,</hi> the Judgment following was passed at the same Meeting it was first brought before you, it therefore appeareth haste; for if they had been <hi>Hereticks,</hi> of which the least cannot be proved, it had been time enough to have rejected them after the first and second admonition. 2dly. Many of the said Meeting dissented from passing that Judgment, at least at that time, by which it seems arbitrary, or wilful; for its where the Church agrees, and not where it doth not agree, that her acts can be supposed accord<g ref="char:EOLhyphen"/>ing to Gospel Order in any respect. 3dly. and <hi>lastly,</hi> A Difference cannot be without an Opposite, and seeing it is plain, that they principally concerned on the other side, who by their Opposition, as above maintained, and kept on foot this Difference till it came to this height of Dis-Unity, are first and emi<g ref="char:EOLhyphen"/>nent in bringing about this Judgment, they are therefore in the nature of Witnesses for themselves, and Judges in their own Causes; which (if Gospel Order) was never looked upon by Judicious and Impartial Men as valled Evidence or a fair Procedure. Therefore in order to a sound Judgment in
+<pb n="6" facs="tcp:200283:4"/>those Cases, (a Pearl of great Price in these perillous times) antiquity, number and specious pretences are to be set aside, not only because of the foregoing Objections, but also because such acts as these seldom want the Plea of Anti<g ref="char:EOLhyphen"/>quity and Number, but never specious Pretences; therefore as effects best de<g ref="char:EOLhyphen"/>monstrate the nature of these Causes from whence they come, so doth the act brought forth best discover and manifest the nature, frame, and quality of their Mind and Spirit concerned; for if the Proceedure be Gospel Order, what is brought forth is the effect of the Gospel, and seeing the Gospel is the power of God, what is brought or derived from it, must be consonant thereto, then adequate to Reason, and consistant with Truth and Righteousness, else it cannot be the Gospel Order, except the Gospel Order can be without the Gospel Verity, which we conceive not.</p>
+            <p>Now to find out the truth in these Transactions, we must seriously consider also the natures of those Facts on which the Judgment is placed, together with their Causes and Circumstances occurring; the Facts are expressed in the Judg<g ref="char:EOLhyphen"/>ment following, which thus proceeds,
+<q>In a testimony for the antient and unchangeable Truth and Unity amongst Brethren therein, and for the glory of the Life and Dominion thereof, over the Works of a dissenting, dividing Spirit, and the attempts thereof to strife, we declare against the aforemen<g ref="char:EOLhyphen"/>tioned works of Strife and Separation, that the aforesaid <hi>J. C.</hi> and others have occasioned, and gone into, and with those that adhere to them, and with the Separate Meeting set up, and against that Paper given forth by way of an Apology, <hi>&amp;c.</hi> and against that Spirit which in the said Paper re<g ref="char:EOLhyphen"/>flects and implicitly charges the Church of God with smiting Queries in ge<g ref="char:EOLhyphen"/>neral terms, without proving any thing on the account of its own Order and Discipline used therein in Gods Power; as also on the account of the whole<g ref="char:EOLhyphen"/>some Directions and Rules commended to the Conscience used &amp; practised amongst God's People.</q> All which you Judge, you say, in the Name of God, and with his Spirit which he hath made you partakers of to his Praise. Again,
+<q>We declare Dis-union with such as have been the Promoters thereof, and with such as appear to vindicate the same, and with such as presume to offer their Gifts while they appear to abet, or strengthen the Separate Meeting, <hi>&amp;c.</hi>
+               </q> All which being out of the Unity of the Spirit of Christ (as you say) in the Dis-Reconciliation always testifyed against, and the offering of Gifts in such Cases prohibited according to the Scripture, Record, <hi>&amp;c.</hi> Now this is your Judgment, which we must confess is delivered after a promiscuous and indijested manner, which considering the Qualifications alledged, and the many Heads concerned, might have been expected to have been divulged in a better Method; but to take it as it is, we grant many Particulars are spoken of, yet may be reduced to a few, we shall consider the most material, for if wrong in any, you are wrong in all. <hi>First,</hi> You charge them and others with being of a dissenting and dividing Spirit, promoting strife and trouble without particularizing what they dissent from, or those Facts from whence strife ari<g ref="char:EOLhyphen"/>seth; so that those charged, if innocent, are not in a capacity to defend
+<pb n="7" facs="tcp:200283:4"/>themselves, because they, nor no Body else know where you will fix, neither are those unconcerned, that read, capable to discover whether the Judgment passed on this account be adiquate with the Principles of Truth and Righte<g ref="char:EOLhyphen"/>ousness, for though strife simply considered be evil, yet every striving or con<g ref="char:EOLhyphen"/>tending is not evil, seeing the Apostle bids, <hi>Strive or contend, and</hi> (observe) <hi>earnestly for the Faith once delivered unto the Saints.</hi> Of which nature this may be, for any thing that doth yet appear.</p>
+            <p>
+               <hi>Secondly,</hi> Your Charge is <hi>Separation,</hi> with a Separate Meeting in their pri<g ref="char:EOLhyphen"/>vate Houses, and this seems to be the principal of all you say against them, and yet there doth not appear any evil in all this, simply considered, for having Meetings in their Private Houses cannot be evil, except others that so meet elsewhere are evil; and if the Meeting be not evil, the separation from the Publick House cannot be evil, because they cannot so meet but there must be a separation; besides, two Meetings are alowed distinct elsewhere; thus according to the Letter of this great Charge there appears no evil fixed; therefore, to Judge those things in the Name of God, doth not appear to be any Testimony for the Truth. But least you, or any should say, that this is evasive, we are very willing to consider the Causes of those things which you have omitted, for Separation is but an effect; now every Effect has a Cause, neither doth any Cause come but the effect will follow; whereupon seeing that you have neither considered effects as they lay imbodyed in their Causes, that so the evil portended might have been prevented, nor yet the Cause, when the effect is manifest and apparent, to set aside Christianity, it doth not appear that you have acted the part of prudent Statists, nor of wise Physitians, according to that known Maxim, <hi>Take away the Cause, and the Effect ceaseth:</hi> for placing your Judgment upon the Effect without due consideration to the Cause, is more like to foment and animate Division, than restore the Path of Peace and Truth, to dwell in, with respect to our Discipline. But to proceed; if this Separation, or Separate-Meeting be evil, then there must be a Cause, or Causes found out to make it evil; and that in general must either be, by sepa<g ref="char:EOLhyphen"/>rating from some thing that is more than accidentally good, or by joyning to some thing that is evil; if the latter, then it must be manifest in Doctrine, or in Practice; but it seems there is nothing here against them, for not the least is objected; so that we conceive the Charge lyeth not here, nothing of Innovation being found amongst them, with respect to the Principle of Truth or antient Practises amongst Friends, concurrent thereto. Therefore if it be evil, it must be by separating from something that is good; and what that is let us seriously enquire; for a Separation from the Publick Meeting-house in York, charged, cannot be it, seeing we all acknowledge no more Sacred<g ref="char:EOLhyphen"/>ness or inherent Holiness in one place than in another, nor can it be by sepa<g ref="char:EOLhyphen"/>rating from that People that meet there, except they, as professing this or that thing, and paled in with this or that Rule in Matter of Discipline, are that Church of God which is the Ground and Pillar of Truth: but this we
+<pb n="8" facs="tcp:200283:5"/>conceive as improbable for them to evince, as it hath been for others to do it before them; nay, we conceive, such as shall undertake it, in effect say, <hi>They bear the Root:</hi> when the Root is to bear them. Whereupon it still follows, that they, though separate from you, may still be of that Universal Church of God as well as you: therefore you had need have a care how you abate your Charity.</p>
+            <p>But we would come to an issue with you, by coming to the merit of the bu<g ref="char:EOLhyphen"/>siness and substance of what can be alledged as evil; and that is, while you and they profess that Truth, which if truely taken heed to, will bring to the Knowledge of God in the face of Jesus Christ, which being Life Eternal, the Summe and Substance of all Religion, a Separation from you may be of evil consequence; for it may stagger the Weak, hinder some from looking after Truth, as also open the Mouths of Gainsayers, to speak against the Truth, and this we think is the sum, and do confess, if no occasion be given by you, no righteous defence can be made, that we know of for a Separation from you; but if occasion that is just be given by you, then will you be justly chargeable with the evil that succeeds, and a Separation from you will be no Separation from the Truth, because the Truth is universal, which you are not. But they alledge divers occasions of Offence; thus you see effects must be traced to their Causes, in order to a fair procedure, &amp; therefore the Causes of Difference should have been considered in the Meeting before the Judgment had been passed: from hence it appears also, you could never have done your selves greater Justice, nor the Truth greater Service than when it was offered to the Meeting to consider the Causes, fairly to have debated that Matter, that so the faithful to God might have understood it; for we conceive, all that subscribed are judged Faithful, and yet some of those are dissatisfied with the Order about Marriage, as well as those that are Judged. Now, a fair Debate, if true, might have rectified their Mistakes; by which your Testimony by your subscription, might have been uniform with respect to the Truth, which now it is not: thus what good can be expected to succeed when every like pro<g ref="char:EOLhyphen"/>duceth but its like. Much might be said, but we shall be as concise, and pro<g ref="char:EOLhyphen"/>ceed with as much brevity as we can; we grant they do alledge several Causes of Offence; we shall only consider, or stand upon at this time this about Mar<g ref="char:EOLhyphen"/>riage, it being, or at least appearing the principal of all, by bringing those present Differences first upon the publick Stage; for if your Judgment be wrong there, it is wrong in all; for what is said to be done in the Name of God is wholly right, or wholly wrong, for no Linsey-Wolsey Garment can be worn there: well then, this Order is either good or evil; if evil, you must grant it ought to be testified against; and such as so testifie cannot, or ought not to be said to be in the Strife that is evil; well, it is evil to them that judge it evil; but many, or at least, some of the Subscribers do Judge it evil, therefore it is evil to them; and to such we say, seeing you are one with those in believing it evil, you must be one, according to Truth, with them in bearing witness against that evil.</p>
+            <pb n="9" facs="tcp:200283:5"/>
+            <p> Then how could you condemn that Paper wholly which did bear witness against this thing, but condemn your selves; for tho you might suppose some<g ref="char:EOLhyphen"/>thing wrong in it, yet not distinguishing betwixt right &amp; wrong, condemning all together, has made your Judgment wholly wrong; for there is no Errour in the Truth, nor consequently in true Judgment; but there is errour in your Judgment, as above, therefore it cannot be true: and thus into a Dilemma you are brought, out of which you cannot extricate your selves but by retract<g ref="char:EOLhyphen"/>ing your former errour; and thus the Judgment passed, at least, so far as you are concerned, must be invalled. But if you shall object, <hi>Though this Case of Marriages be Cause of Offence, yet it is not a sufficient ground for a Separation.</hi> Much might be said to this, but we shall only say at this time, that it is har<g ref="char:EOLhyphen"/>der for you to judge that this is not a sufficient ground, than it is, that no Of<g ref="char:EOLhyphen"/>fence should be given: and therefore if your Judgment had been rightly pla<g ref="char:EOLhyphen"/>ced, it should have been to have removed the offence. But now to such as be<g ref="char:EOLhyphen"/>lieve the Order is good (if any such) and therefore ought to be practised; let such consider, if true (as we are satisfied it is not) yet the manner of put<g ref="char:EOLhyphen"/>ting it in practice might make it evil, or of evil consequence; for though we may grant that the Church has power to deal with such as discent from her in such Principles or Practices as they have been gathered into profession of by Conviction; <hi>&amp;c.</hi> Yet we hope we may deny, that any Assembly of Men, tho they may call themselves a Church, have power to make, ordain, or constitute any Order or Rule <hi>de nova,</hi> that can, shall, or ought in the Church to be con<g ref="char:EOLhyphen"/>cluding beyond the Conviction or Concurrence of others; if so, then where the concurrence of others cannot be had, there ought, according to the Gos<g ref="char:EOLhyphen"/>pel Order, to be a waiting on such till Conviction; for the same way that ga<g ref="char:EOLhyphen"/>thered us to be a People must preserve us in the Unity of that Spirit to which at first we were gathered: whereupon it follows, if the thing were true, yet we ought not to be pressed or Imposed upon beyond Christian Freedom, for that breaks the Unity of Spirit, which should be preserved where the end is one, though the apprehension, and consequently the practice may in some sort be different; for the Unity of the Spirit, which should be kept in the Bond of Peace, standeth not always in an Outward Conformity, as some evilly prose<g ref="char:EOLhyphen"/>cute, and others as weakly condescend; as in the Instances of those that could eat flesh, and could not; and of those that esteemed every day alike, and others one day above another; for if we must believe because others say it, and not because we our selves know it is true, where is our Christian Freedom and Liberty which we ought to have, to chuse the Good, or refuse the Evil? Nay, further, if according to Truth we cannot, or ought not to conform against Conviction, and yet because we discent, are judged unfaithful, and criminated with being for a fleshly Liberty, and of a wrong Spirit, as some late Writings apparently declare: Is not this Imposition in the Superlative degree, with respect to the Power of the Imposer: and if we conform for fear of the Judg<g ref="char:EOLhyphen"/>ment, is it not <hi>Blind Obedience, Implicit Faith,</hi> or worse; and are not all those things exploded as Antichristian? Now consider the Matter seriously, and
+<pb n="10" facs="tcp:200283:6"/>see if this be not our Case; for do but honestly trace effects unto their Cause, and it will plainly appear, that the bringing in of noval things, and pressing them beyond the Freedom of others, is the real Cause of our Miseries: so that the Judgment passed is not only against the <hi>Gospel Order,</hi> but against <hi>Common Reason;</hi> for those that have given the occasion are the Judges thereof; and, to say no more, the <hi>Judgment</hi> must be invalled. But let us consider this Case about Marriage a little further: grant that you believe it good, and that we believe it evil, and that it will be of evil consequence; here we are opposite; from hence comes difference; no difference ought to be, yet it cannot be end<g ref="char:EOLhyphen"/>ed but by giving way of one side; whether this is to be <hi>You</hi> or <hi>Ʋs,</hi> we desire all Righteous Men may judge: for though some, at first look, might think that our Condiscention might be for good; namely, to restore the Unity, which we confess would be excellent, if truly restored, nothing being more lovely than Concord and Unity amongst Brethren; yet we hope upon mature consi<g ref="char:EOLhyphen"/>deration, such as are Conscientious and Judicious will see that this is not the way for us to submit against Knowledge to what we believe is evil; for tho that might bring an outward Conformity, yet it could never restore the true Unity, for that stands in the true Spirit, out of which evil is; but to violate our Conscience, is to do evil; and though for a good end, yet all must grant, evil is not to be done that good may come thereon. Now though you believe it good, yet we hope you will not say, that it is positively good; and then see<g ref="char:EOLhyphen"/>ing it is not of any Divine Authority, but of your own bringing forth, we must needs affirm, that it is more agreable to Reason, Truth, and Gospel Order, for you to omit the doing of a good thing, for a good end, as this might be, than for us to receive a thing that is evil. Thus we say <hi>Condiscention</hi> lyeth on your side, and we conceive this is so obvious as we need not inlarge upon it; for if you grant we are conscientious, you must be concluded if you deny it, and judge that our Opposition is not matter of Conscience, but sinister ends, then we must needs say, that will be great Uncharity, the effects of which will be extreamly evil, for that will fix a Gulf betwixt <hi>You</hi> and <hi>Ʋs,</hi> so that we can<g ref="char:EOLhyphen"/>not come at <hi>You,</hi> nor <hi>You</hi> at <hi>Ʋs;</hi> for you must grant of this we shall be Judges, except you will conclude that we have lost, not only our sense as <hi>Christians,</hi> but also our Reason as Men, but knowing your mistake here, we shall be con<g ref="char:EOLhyphen"/>firmed you were mistaken in making that Order, which has given the occasion; and therefore consider, as that gave the occasion, so this will establish that difference because such will certainly know, they differ and separate from such as want the true Charity and Judgment of Christ at the least in this thing; for if you had the latter, you would know our Innocency; or if the former, we are sure you would be kept so tender, as rather than you would run a hazard to hurt the <hi>Wheat</hi> you would suffer the <hi>Tares</hi> to grow till the time of the <hi>Har<g ref="char:EOLhyphen"/>vest.</hi> Thus we desire all to consider, that the want of Charity will be of dread<g ref="char:EOLhyphen"/>ful consequence: and notwithstanding all this, our thoughts are not so low concerning you; for though we are sure you are mistaken, yet we believe you might intend well; and if it were not for this <hi>Charity,</hi> we should not waite on
+<pb n="11" facs="tcp:200283:6"/>you, nor write unto you after this manner that we do; and though we do af<g ref="char:EOLhyphen"/>firm that Condiscention lyeth on your part, yet we do not know that thereby we abate you of any Priviledge that belongs to you as Men or Christians. For if you have a mind to stay a year, or more before you Marry, we shall be con<g ref="char:EOLhyphen"/>tent; nay, if you should judge it your duty to advise or caution others so to do, we should not be offended, provided you kept in the true Charity with such as could not take your Advice: nay further, if you judge your Reason for it better than ours against it, we should be willing that they should be fair<g ref="char:EOLhyphen"/>ly stated together, and so left to the Witness of God to decide the <hi>Controver<g ref="char:EOLhyphen"/>sy:</hi> and in the <hi>interim,</hi> why our Judgment against its being a universal and positive limit, should not be as valled to lay it aside in that respect, as yours to set or keep it on foot, we cannot tell: for we must needs say, we do not know of any true Power that you have over us, that we may, or ought not to have over you: for if any shall alledge, that you are the greater number, and there<g ref="char:EOLhyphen"/>fore we ought to be concluded: we say, this is a Question; but should we grant it, the greater numbers conclusion against Truth are no more concluding than the lesser; and what is against our knowledge or belief while we so believe, with respect to us, is against Truth; and it will be as casie for you to stop the <hi>Sun</hi> in its Course, as keep or restore the true Unity this way: if any shall plead Church Authority in the case, though we shall grant that the Authority of the <hi>True Church</hi> is venerable, because her Determinations, as conform to the Truth and the Witness of God, in which her Power stands according to every occasion; yet because <hi>Church Authority</hi> has heretofore been urged to justifie as base ends as any Authority under Heaven; therefore we say it is just to en<g ref="char:EOLhyphen"/>quire from whence that Authority springs that would conclude us, not only against Conviction, but also against Knowledge; for if true, we are sure it will abide the Tryal willingly, and like pure Gold, loose nothing by it; and if not true, it is not only time to question it, but to redress it. Therefore to proceed, either the Whole is a Church, or there are as many <hi>Churches</hi> as di<g ref="char:EOLhyphen"/>stinct <hi>Societies;</hi> if the first, then all are Brethren or Members, in which there should be no <hi>Lordship,</hi> nor <hi>Dominion</hi> exercised over <hi>Conscience,</hi> knowing, <hi>Who</hi> (said he) <hi>that will be the greatest, let him be as him that serveth:</hi> if the latter, yet those have no Dominion over one another that we know of: but if it shall be alledged, that this Power comes from the <hi>Quarterly-Meeting:</hi> for this <hi>Act</hi> about <hi>Marriage</hi> being Founded there, and that <hi>Meeting</hi> the Representative of the Whole, the Whole are concluded; though we might object, it was not freely concluded at that <hi>Meeting;</hi> yet suppose it had, we conceive, to take such power to that Meeting, is both against Reason and Truth; against Reason, because that <hi>Meeting</hi> hath no such Power invested or inherent in it by virtue of its Constitution. <hi>Secondly,</hi> Nor ever since were the Members thereof in<g ref="char:EOLhyphen"/>dued with such a Legislative Power; then to arrogate such a Power to it as is neither in it by virtue of its Constitution, nor given to it since, must needs be against Reason, and this without any Reflection to the true end and Service of that <hi>Meeting.</hi> It is against <hi>Truth</hi> also; for if that <hi>Meeting</hi> be a <hi>Church,</hi> and
+<pb n="12" facs="tcp:200283:7"/>that <hi>Church</hi> imports a <hi>Christian Assembly,</hi> her Acts must be Uniform with pure <hi>Christianity,</hi> then she must do as she would be done unto; but she would not be imposed upon, therefore she is not to intrench upon others; conse<g ref="char:EOLhyphen"/>quently she has no Authority, neither from <hi>Reason</hi> nor the <hi>Truth,</hi> to make any <hi>Act</hi> or <hi>Rule</hi> that shall be concluding beyond the Freedom of her <hi>Christian Friends</hi> and <hi>Brethren.</hi> For if such a Meeting be more honourable, and have more Authority it is because she has more <hi>Truth;</hi> and if her Determinations be more concluding, it must be because they are more convincing; whereup<g ref="char:EOLhyphen"/>on it follows, she may advise, caution, or commend, but not command, with<g ref="char:EOLhyphen"/>out a Commandment from the Lord; the first renders her <hi>Christian;</hi> the lat<g ref="char:EOLhyphen"/>ter, (except qualified as above) out of the Gospel Order; if not conceited, as conceiving, because such a <hi>Meeting</hi> she is infallible, and therefore her Power uncontroulable: but it is plain she may err, if she keep not to the unerrable Spirit: and if she had not erred, yet because there is a possibility she may, it follows, seeing the <hi>Truth</hi> is one in all, in Nature or Quality, though not in quantity, that it is the Duty of all under the Government of Christ, which is to go end way, to mind that what they receive be <hi>Conform</hi> to the <hi>Truth;</hi> for else, admit of one Errour, and a thousand may follow. From hence it ap<g ref="char:EOLhyphen"/>pears that any one, or more, by the Authority of <hi>Truth,</hi> may question any <hi>Act</hi> of <hi>Quarterly-Meeting,</hi> or any other <hi>Meeting</hi> within the Confines of our <hi>Community;</hi> for (observe) otherwise the Form is constituted and set above the Power; and take notice, when this comes to pass, that an Inquiry, as above, cannot be born for Self-sake, or the Form sake, or both, Dissatisfaction, and consequently, Division must succeed; and the Reason is, because the Devil is gotten into the Likeness of <hi>Truth.</hi> From what has been said, we conceive it appears, that no Assembly of Men, though they may call themselves a <hi>Church,</hi> have any Power from the Truth, or Gospel Order, to bring any thing into the Church <hi>denova,</hi> that shall or ought to be concluding beyond their Brethrens Freedoms: then where the con<g ref="char:EOLhyphen"/>currence of others is not first had, there ought to be a waiting upon such till Conviction; if the thing proposed were true for other Methods, raze the very Foundation of our Govern<g ref="char:EOLhyphen"/>ment with respect to Truth and Righteousness; but other Methods have been used, as is plain in the case of Marriage; which though we do approve of the <hi>Monthly Meetings</hi> Authority in the Case of Marriage as usually, being guided and governed by the Spirit of Truth; yet we are a<g ref="char:EOLhyphen"/>gainst this positive Limit, yet shall for bear our particular Reasons against it and other things at this time, because we more desire to find out the Cause of our Differences, that it might be taken away, in order to Reconciliation and Peace, then a Justification of the Difference which has been principally amongst us as above, by bringing this Case of Marriage into the Church, and pressing it against the Freedoms of others, so long till many are dissatisfied, and some sepa<g ref="char:EOLhyphen"/>rate, assigning this for a ground or Cause. Now those that have given this Occasion, have laid the ground for Dissatisfaction, and consequently for Division, &amp; therefore are chargeable just<g ref="char:EOLhyphen"/>ly with the evil that succeds. From hence it follows also, that that Sentence passed as above by such as have given the occasion is invalled to all intents and Purposes; that is good, correspon<g ref="char:EOLhyphen"/>dent with the Truth or Gospel Order; &amp; this further we hope to illustrate, if any shall confront, <hi>&amp;c.</hi> In the <hi>interim</hi> we desire that all may truly consider what is here writ, for we can honestly say, It is not for Contention, but purely matter of Conscience, wherein we truly seek the Propriety of <hi>Zion,</hi> &amp; Wellfare of <hi>Jerusalem:</hi> &amp; tho we put not our Name unto it, it is not that we are ei<g ref="char:EOLhyphen"/>ther afraid, or conscious of any evil, but really for good, that what is proposed or afferted may have due weight upon their Minds that reads, without being either over or undervallued for their sakes that writ it. And thus in the Truth we can bid all Farewel.</p>
+            <pb facs="tcp:200283:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
